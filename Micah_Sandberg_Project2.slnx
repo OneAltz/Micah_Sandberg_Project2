@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Micah_Sandberg_Project2/Micah_Sandberg_Project2.vcxproj" />
+</Solution>
